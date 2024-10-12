@@ -1,0 +1,8 @@
+[Added Associations]
+text/plain=code.desktop;
+x-scheme-handler/tonsite=org.telegram.desktop.desktop;
+application/json=code.desktop;
+
+[Default Applications]
+x-scheme-handler/tonsite=org.telegram.desktop.desktop
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop

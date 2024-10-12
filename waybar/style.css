@@ -1,0 +1,205 @@
+/* 'Droid Sans Mono', 'monospace', monospace */
+
+
+/* yellow */
+/* e7dd74 */
+/* def0b3 */
+
+* {
+    border: none;
+    font-family: "JetBrainsMono Nerd Font";
+    font-weight: bold;
+    font-size: 18px;
+    min-height: 0;
+}
+
+window#waybar {
+    background: none;
+    color: white;
+    transition-property: background-color;
+    transition-duration: 0.5s;
+}
+  
+window#waybar.hidden {
+    opacity: 0.5;
+}
+
+tooltip {
+    background-color: rgba(27, 34, 48, 0.85);
+    border-radius: 10px;
+    border: 1.8px solid #c4c6d4;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#workspaces {
+    background: rgba(27, 34, 48, 0.5);
+    padding: 1px 1px;
+    border: 1.8px solid #c4c6d4;
+    margin-left: 10px;
+
+    opacity: 1.0;
+    margin-top: 5px;
+    margin-bottom: 7px;
+    border-radius: 10px;
+    min-height: 35px;
+}
+
+#workspaces button {
+    padding: 0 5px 0 5px;
+    margin: 3px 3px;
+    border-radius: 6px;
+    border: 0;
+    color: #c4c6d4;
+    transition: all 0.3s ease-in-out;
+    opacity: 1;
+}
+
+
+
+#workspaces button:hover {
+    background: none;
+    border: none;
+}
+
+#workspaces button.active {
+    color: rgba(27, 34, 48, 0.6);
+    background: #c4c6d4;
+    min-width: 40px;
+    transition: all 0.3s ease-in-out;
+}
+
+#workspaces button.urgent {
+    background-color: #d5598b;
+    color: white;
+}
+
+#memory,
+#disk,
+#cpu,
+#temperature,
+#bluetooth,
+#clock,
+#network,
+#language,
+#backlight,
+#pulseaudio,
+#battery {
+    background: rgba(27, 34, 48, 0.5);
+    color: #c4c6d4;
+    padding: 3px 10px 3px 10px;
+    opacity: 1.0;
+    margin-top: 5px;
+    margin-bottom: 7px;
+    border-radius: 10px;
+}
+
+#memory {
+    border-top: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-left: 1.8px solid #c4c6d4;
+    border-radius: 8px 0 0 8px;
+    margin-left: 7px;
+}
+
+#disk {
+    border-top: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-radius: 0;
+}
+
+#cpu {
+    border-top: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-radius: 0;
+}
+
+#temperature {
+    border-top: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-right: 1.8px solid #c4c6d4;
+    border-radius: 0 10px 10px 0;
+}
+
+
+
+#bluetooth {
+    border-top: 1.8px solid #c4c6d4;
+    border-right: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-radius: 0 10px 10px 0;
+    margin-right: 7px;
+} 
+
+#clock {
+    border: 1.8px solid #c4c6d4;
+    border-radius: 10px;
+}
+
+#network {
+    border-top: 1.8px solid #c4c6d4;
+    border-left: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-radius: 10px 0 0 10px;
+}
+
+
+
+#language {
+    border-top: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-left: 1.8px solid #c4c6d4;
+    border-radius: 10px 0 0 10px;
+}
+
+#backlight {
+    border-top: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-radius: 0;
+}
+
+#pulseaudio {
+    border-top: 1.8px solid #c4c6d4;
+    border-bottom: 1.8px solid #c4c6d4;
+    border-right: 1.8px solid #c4c6d4;
+    border-radius: 0 10px 10px 0;
+}
+
+#battery {
+    border: 1.8px solid #c4c6d4;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 7px;
+}
+
+#battery.critical:not(.charging) {
+  border-color:             #d5598b;
+  color:                    #d5598b;
+  animation-name:             blink;
+  animation-duration:         1.0s;
+  animation-timing-function:  linear;
+  animation-iteration-count:  infinite;
+  animation-direction:        alternate;
+}
+
+#battery.warning:not(.charging) {
+    border-color:             #def0b3;
+    color:                    #def0b3;
+    animation-name:             blink;
+    animation-duration:         1.0s;
+    animation-timing-function:  linear;
+    animation-iteration-count:  infinite;
+    animation-direction:        alternate;
+}
+
+#battery.charging, #battery.full {
+  border-color:             #a6e3a1;
+  color:                    #a6e3a1;
+  animation-name:             blink;
+  animation-duration:         1.0s;
+  animation-timing-function:  linear;
+  animation-iteration-count:  infinite;
+  animation-direction:        alternate;
+}

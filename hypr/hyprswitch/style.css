@@ -1,0 +1,46 @@
+.client-image {
+    margin: 10px;
+}
+
+.client-index {
+    opacity: 0;
+}
+
+.client {
+    margin: 10px;
+    border-radius: 15px;
+    border: 3px solid rgb(67, 75, 99);
+    background-color: rgba(25, 25, 25, 0.95);
+}
+
+.client:hover {
+    background-color: rgba(40, 40, 50, 1);
+}
+
+.client_active {
+    border: 3px solid rgba(179, 189, 240, 1);
+}
+
+.workspace {
+    color: rgb(143, 155, 216);
+    font-size: 25px;
+    font-weight: bold;
+    border-radius: 15px;
+    border: 3px solid rgb(67, 75, 99);
+    background-color: rgba(20, 20, 25, 0.95);
+}
+
+.workspace_special {
+    border: 3px solid rgba(0, 255, 0, 0.4);
+}
+
+.workspaces {
+    margin: 20px;
+}
+
+window {
+    opacity: 1;
+    border-radius: 15px;
+    border: 3px solid rgb(67, 75, 99);
+    background-color: rgba(20, 20, 25, 1);
+}
