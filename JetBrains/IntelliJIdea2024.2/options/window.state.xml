@@ -1,0 +1,25 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1814" height="288" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1814" height="288" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1814" height="288" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1814" height="288" />
+  </component>
+  <component name="WindowManager">
+    <frame x="12" y="63" width="1896" height="1005" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="748" y="336" key="FileChooserDialogImpl" timestamp="1728845559456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="336" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1728845559456" />
+    <state x="954" y="562" width="1896" height="1005" key="WELCOME_SCREEN" timestamp="1728948316001">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="954" y="562" width="1896" height="1005" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1728948316001" />
+    <state x="560" y="227" width="800" height="676" key="new project wizard" timestamp="1728845565971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="227" width="800" height="676" key="new project wizard/0.0.1920.1080" timestamp="1728845565971" />
+  </component>
+</application>
