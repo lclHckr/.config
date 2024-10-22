@@ -34,8 +34,8 @@ configuration {
 /*****----- Main Window -----*****/
 window {
     /* properties for window widget */
-    height:                      400px;
-    width:                       700px;
+    height:                      470px;
+    width:                       800px;
     transparency:                "real";  /* Adjust opacity here (0.8 means 80% opaque) */
     location:                    center;
     anchor:                      center;
@@ -62,8 +62,8 @@ mainbox {
 }
 
 imagebox {
-    border-radius:               15px 0 0 15px;
-    margin:                      15px;
+    border-radius:               20px 0 0 20px;
+    margin:                      20px;
     padding:                     20px;
     background-color:            transparent;
     background-image:            url("/home/elpablo/pictures/wallpapers/.current_wallpaper", height);
@@ -187,7 +187,7 @@ element selected.active {
 element-icon {
     background-color:            transparent;
     text-color:                  inherit;
-    size:                        32px;
+    size:                        36px;
     cursor:                      inherit;
 }
 element-text {
