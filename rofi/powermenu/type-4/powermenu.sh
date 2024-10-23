@@ -20,7 +20,7 @@ uptime="`uptime -p | sed -e 's/up //g'`"
 shutdown=''
 reboot=''
 lock=''
-suspend=''
+suspend='󰤄'
 # suspend=''
 logout=''
 
