@@ -1,1 +1,0 @@
-create table `user` (id bigint not null auto_increment, name ENUM('USER','GROUP_ADMIN','SUDO'), primary key (id)) engine=InnoDB
