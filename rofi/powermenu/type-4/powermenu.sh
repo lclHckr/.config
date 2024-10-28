@@ -28,8 +28,8 @@ logout=''
 rofi_cmd() {
 	rofi -dmenu \
 		-p "" \
-		-mesg "Uptime: $uptime" \
 		-theme ${dir}/${theme}.rasi
+		# -mesg "Uptime: $uptime" \
 }
 
 # Pass variables to rofi dmenu
