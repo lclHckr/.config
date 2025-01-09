@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.1" encoding="UTF-8"?>
 
 <channel name="thunar" version="1.0">
   <property name="last-view" type="string" value="ThunarIconView"/>
@@ -9,7 +9,7 @@
   <property name="last-show-hidden" type="bool" value="true"/>
   <property name="last-separator-position" type="int" value="254"/>
   <property name="last-details-view-zoom-level" type="string" value="THUNAR_ZOOM_LEVEL_38_PERCENT"/>
-  <property name="last-details-view-column-widths" type="string" value="50,50,160,50,50,50,50,50,1128,50,50,80,50,208"/>
+  <property name="last-details-view-column-widths" type="string" value="50,50,160,50,50,50,50,50,1199,50,50,80,50,208"/>
   <property name="last-sort-column" type="string" value="THUNAR_COLUMN_NAME"/>
   <property name="last-sort-order" type="string" value="GTK_SORT_ASCENDING"/>
   <property name="last-splitview-separator-position" type="int" value="788"/>
@@ -17,4 +17,15 @@
   <property name="last-side-pane" type="string" value="ThunarTreePane"/>
   <property name="last-toolbar-item-order" type="string" value="0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17"/>
   <property name="last-toolbar-visible-buttons" type="string" value="0,1,1,1,1,0,0,0,0,0,1,1,0,1,1,0,1,0"/>
+  <property name="last-image-preview-visible" type="bool" value="false"/>
+  <property name="tree-icon-size" type="string" value="THUNAR_ICON_SIZE_32"/>
+  <property name="shortcuts-icon-size" type="string" value="THUNAR_ICON_SIZE_24"/>
+  <property name="misc-thumbnail-draw-frames" type="bool" value="false"/>
+  <property name="misc-text-beside-icons" type="bool" value="false"/>
+  <property name="misc-change-window-icon" type="bool" value="true"/>
+  <property name="misc-directory-specific-settings" type="bool" value="false"/>
+  <property name="misc-folders-first" type="bool" value="true"/>
+  <property name="misc-file-size-binary" type="bool" value="true"/>
+  <property name="misc-image-preview-mode" type="string" value="THUNAR_IMAGE_PREVIEW_MODE_EMBEDDED"/>
+  <property name="last-toolbar-items" type="string" value="menu:0,back:1,forward:1,open-parent:1,open-home:1,undo:0,redo:0,zoom-in:0,zoom-out:0,zoom-reset:0,view-as-icons:1,view-as-detailed-list:1,view-as-compact-list:0,toggle-split-view:1,location-bar:1,reload:0,search:1,uca-action-1721948122709832-1:0,new-tab:0,new-window:0,view-switcher:0"/>
 </channel>

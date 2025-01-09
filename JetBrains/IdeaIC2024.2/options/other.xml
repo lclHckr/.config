@@ -24,7 +24,8 @@
   "keyToString": {
     "INSPECTION_FILTER_HISTORY": "pinned mode",
     "KEYMAP": "new\nnew class",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
+    "MarketplacePluginsSearchHistory": "/suggested",
     "NewProjectWizard.generateOnboardingTips": "true",
     "NewProjectWizard.groupIdState": "org.example",
     "NextRunPlatformUpdateBuild": "IC-242.23726.103",
@@ -34,7 +35,9 @@
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "defaultJdkConfigured": "true",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "242.23726.103",
     "fileTypeChangedCounter": "1",
@@ -45,7 +48,7 @@
     "ignore.ide.script.launcher.used": "true",
     "installed.kotlin.plugin.version": "242.23726.103-IJ",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "/home/elpablo/void",
+    "last_opened_file_path": "/home/elpablo/gym/untitled",
     "migrated.non.roamable.values.from.general.settings": "true",
     "onboarding.generation.number": "2",
     "previousColorScheme": "_@user_Dark",
@@ -56,6 +59,10 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/elpablo/gym/untitled",
+      "/home/elpablo/gym/GroupQueue_JavaFX/server",
+      "/home/elpablo/gym/GroupQueue_JavaFX/client/pom.xml",
+      "/home/elpablo/gym/GroupQueue_JavaFX",
       "/home/elpablo/void"
     ],
     "fileTypeDetectors": [
@@ -64,4 +71,9 @@
     ]
   }
 }]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="GroupQueue_JavaFX-history" project-path="/home/elpablo/gym/GroupQueue_JavaFX" last-access-time="1731961623353" />
+    </command-history-files>
+  </component>
 </application>

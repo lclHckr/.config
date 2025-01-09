@@ -45,9 +45,9 @@ window {
 
     /* properties for all widgets */
     enabled:                     true; 
-    border:                      2px solid;
+    /*border:                      2px solid;*/
     border-radius:               20px;
-    border-color:                @selected;
+    /*border-color:                @selected; */
     cursor:                      "default";
     background-color:            rgba(27, 25, 25, 0.8);
 }

@@ -11,8 +11,8 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="255">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="345">
+              <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -33,12 +33,12 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 4,
-      "lastUsed": 1730552954597
+      "usageCount": 6,
+      "lastUsed": 1731796653946
     },
     "XML": {
-      "usageCount": 4,
-      "lastUsed": 1730552954508
+      "usageCount": 6,
+      "lastUsed": 1731796653862
     }
   }
 }]]></component>
@@ -56,10 +56,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="4" lastUsage="1730552954597" />
+      <summary usageCount="6" lastUsage="1731796653946" />
     </language>
     <language id="XML">
-      <summary usageCount="4" lastUsage="1730552954510" />
+      <summary usageCount="6" lastUsage="1731796653864" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -194,6 +194,15 @@
               <presentation>
                 <attributes>
                   <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///home/elpablo/void/demo/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
                     <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
                   </map>
                 </attributes>
@@ -236,19 +245,37 @@
       <window_info anchor="bottom" id="Problems View" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.32955664" />
+      <window_info anchor="bottom" id="Build" order="6" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights left="0.32991588" />
+      <unified_weights bottom="0.32955664" left="0.32991588" />
     </layoutV2>
     <recentWindows>
+      <value>Run</value>
       <value>Project</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1820" height="291" key="GridCell.Tab.0.bottom" timestamp="1730585614767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1730585614767" />
+    <state width="1820" height="291" key="GridCell.Tab.0.center" timestamp="1730585614767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1730585614767" />
+    <state width="1820" height="291" key="GridCell.Tab.0.left" timestamp="1730585614767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1730585614767" />
+    <state width="1820" height="291" key="GridCell.Tab.0.right" timestamp="1730585614767">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1730585614767" />
     <state x="484" y="213" key="SettingsEditor" timestamp="1730330291514">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -264,8 +291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="345">
+          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>

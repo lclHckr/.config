@@ -1,0 +1,33 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1820" height="292" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1820" height="292" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1820" height="292" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1820" height="292" />
+  </component>
+  <component name="WindowManager">
+    <frame x="9" y="56" width="1902" height="1015" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="661" y="317" key="#Updates" timestamp="1730326627862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="661" y="317" key="#Updates/0.0.1920.1080" timestamp="1730326627862" />
+    <state x="748" y="334" width="424" height="458" key="FileChooserDialogImpl" timestamp="1732921735979">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="334" width="424" height="458" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1732921735979" />
+    <state x="957" y="561" width="1902" height="1015" key="WELCOME_SCREEN" timestamp="1735223398684">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="957" y="561" width="1902" height="1015" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1735223398684" />
+    <state x="627" y="488" width="656" height="120" key="ide.config.custom.settings" timestamp="1730326934675">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="627" y="488" width="656" height="120" key="ide.config.custom.settings/0.0.1920.1080" timestamp="1730326934675" />
+    <state x="579" y="222" width="887" height="677" key="new project wizard" timestamp="1730330264605">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="579" y="222" width="887" height="677" key="new project wizard/0.0.1920.1080" timestamp="1730330264605" />
+  </component>
+</application>

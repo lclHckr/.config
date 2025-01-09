@@ -1,19 +1,25 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="10" l="1731961732558" />
+    </e>
     <e n="$Undo">
-      <i c="4" l="1730328432820" />
+      <i c="15" l="1731961242757" />
     </e>
     <e n="CheckForUpdate">
       <i c="2" l="1730326921582" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1731961210796" />
     </e>
     <e n="EditCustomVmOptions">
       <i c="1" l="1730326931955" />
     </e>
     <e n="EditorBackSpace">
-      <i c="39" l="1730552998280" />
+      <i c="40" l="1731961227016" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="6" l="1730327610456" />
+      <i c="8" l="1731961213335" />
     </e>
     <e n="EditorCut">
       <i c="2" l="1730553008280" />
@@ -22,13 +28,13 @@
       <i c="4" l="1730552962781" />
     </e>
     <e n="EditorDown">
-      <i c="2" l="1730553005786" />
+      <i c="3" l="1731961213055" />
     </e>
     <e n="EditorEnter">
-      <i c="8" l="1730552956907" />
+      <i c="10" l="1731961204206" />
     </e>
     <e n="EditorLeft">
-      <i c="30" l="1730553003254" />
+      <i c="33" l="1731961210197" />
     </e>
     <e n="EditorLineEnd">
       <i c="5" l="1730552970921" />
@@ -48,14 +54,17 @@
     <e n="EditorRight">
       <i c="5" l="1730552994934" />
     </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1731961306215" />
+    </e>
     <e n="EditorToggleInsertState">
       <i c="2" l="1730552964927" />
     </e>
     <e n="EditorUp">
-      <i c="6" l="1730553004473" />
+      <i c="8" l="1731961209551" />
     </e>
     <e n="ExternalSystem.ProjectRefreshAction">
-      <i c="2" l="1730327612377" />
+      <i c="3" l="1731961747077" />
     </e>
     <e n="GotoClass">
       <i c="4" l="1730327866030" />
@@ -69,14 +78,35 @@
     <e n="MainMenuAsSeparateToolbarAction">
       <i c="1" l="1730327660468" />
     </e>
+    <e n="Maven.AddManagedFiles">
+      <i c="1" l="1731961757948" />
+    </e>
+    <e n="Maven.DownloadAllGroupPopup">
+      <i c="2" l="1731961373232" />
+    </e>
+    <e n="Maven.DownloadAllSourcesAndDocs">
+      <i c="2" l="1731961374716" />
+    </e>
+    <e n="Maven.RunBuild">
+      <i c="3" l="1731961284551" />
+    </e>
+    <e n="Maven.SyncIncrementally">
+      <i c="13" l="1731961671032" />
+    </e>
+    <e n="Maven.UpdateFolders">
+      <i c="13" l="1731961814845" />
+    </e>
     <e n="NewClass">
       <i c="3" l="1730385385751" />
     </e>
     <e n="NewFile">
       <i c="1" l="1730327649262" />
     </e>
+    <e n="OpenFile">
+      <i c="1" l="1731961793157" />
+    </e>
     <e n="Run">
-      <i c="5" l="1730328800099" />
+      <i c="12" l="1731962475248" />
     </e>
     <e n="ShowSettings">
       <i c="16" l="1730330270760" />
@@ -88,7 +118,7 @@
       <i c="1" l="1730327697224" />
     </e>
     <e n="TerminalNewPredefinedSession">
-      <i c="1" l="1730327691277" />
+      <i c="2" l="1731961640286" />
     </e>
     <e n="ToolWindowShowNamesAction">
       <i c="2" l="1730328137958" />
@@ -102,23 +132,35 @@
     <e n="WelcomeScreen.CreateNewProject">
       <i c="2" l="1730330251344" />
     </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1732387258351" />
+    </e>
     <e n="com.intellij.codeInsight.documentation.render.DocRenderer$ToggleRenderingAction">
       <i c="7" l="1730328457133" />
     </e>
+    <e n="com.intellij.codeInsight.navigation.NavigationGutterIconRenderer$1">
+      <i c="1" l="1731961338918" />
+    </e>
     <e n="com.intellij.ide.actions.ToolWindowViewModeAction">
       <i c="2" l="1730328117279" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.PluginsTab$3$1">
+      <i c="1" l="1731961151823" />
     </e>
     <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.SkipImportAction">
       <i c="1" l="1730326517132" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="3" l="1730326604982" />
+      <i c="5" l="1731961219555" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction">
       <i c="8" l="1730328058650" />
     </e>
     <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
       <i c="1" l="1730328150258" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="6" l="1731961786516" />
     </e>
     <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
       <i c="3" l="1730327877991" />
@@ -132,11 +174,14 @@
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="3" l="1730328028807" />
     </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1731961694142" />
+    </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="2" l="1730328308823" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="3" l="1730327706831" />
+      <i c="27" l="1731962466082" />
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$HideAction">
       <i c="1" l="1730328097715" />
@@ -148,7 +193,7 @@
       <i c="1" l="1730327676762" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="1" l="1730327709271" />
+      <i c="2" l="1731961644875" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1730328123621" />

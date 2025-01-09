@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorSession>
+<!-- Written by QtCreator 14.0.2, 2024-11-19T02:51:26. -->
+<qtcreator>
+ <data>
+  <variable>CascadeSetActive</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>Color</variable>
+  <value type="QString">#666666</value>
+ </data>
+ <data>
+  <variable>EditorSettings</variable>
+  <value type="QByteArray">AAAAD0VkaXRvck1hbmFnZXJWNQAAAAIAAABAAC8AaABvAG0AZQAvAGUAbABwAGEAYgBsAG8ALwB2AG8AaQBkAC8AdABlAG0AcAAvAG0AYQBpAG4ALgBjAHAAcAAAAAwAAAAAIAAAAAIAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAAAAAAATAAAASAAvAGgAbwBtAGUALwBlAGwAcABhAGIAbABvAC8AdgBvAGkAZAAvAHUAbgB0AGkAdABsAGUAZAAvAG0AYQBpAG4ALgBjAHAAcAAAAAwAAAAAIAAAAAIAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAAAAAAATAAAAAgAAAEAALwBoAG8AbQBlAC8AZQBsAHAAYQBiAGwAbwAvAHYAbwBpAGQALwB0AGUAbQBwAC8AbQBhAGkAbgAuAGMAcABwAAAAEABtAGEAaQBuAC4AYwBwAHAAAAATQ3BwRWRpdG9yLkMrK0VkaXRvcgAAAABIAC8AaABvAG0AZQAvAGUAbABwAGEAYgBsAG8ALwB2AG8AaQBkAC8AdQBuAHQAaQB0AGwAZQBkAC8AbQBhAGkAbgAuAGMAcABwAAAAEABtAGEAaQBuAC4AYwBwAHAAAAATQ3BwRWRpdG9yLkMrK0VkaXRvcgAAAAG9AAAADWN1cnJlbnRlZGl0b3IAAABIAC8AaABvAG0AZQAvAGUAbABwAGEAYgBsAG8ALwB2AG8AaQBkAC8AdQBuAHQAaQB0AGwAZQBkAC8AbQBhAGkAbgAuAGMAcABwAAAAJgBDAHAAcABFAGQAaQB0AG8AcgAuAEMAKwArAEUAZABpAHQAbwByAAAAIAAAAAIAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAAAAAAATAAAAAgAAAIcAAABIAC8AaABvAG0AZQAvAGUAbABwAGEAYgBsAG8ALwB2AG8AaQBkAC8AdQBuAHQAaQB0AGwAZQBkAC8AbQBhAGkAbgAuAGMAcABwAAAAE0NwcEVkaXRvci5DKytFZGl0b3IAAAAgAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAABMAAAB/AAAAQAAvAGgAbwBtAGUALwBlAGwAcABhAGIAbABvAC8AdgBvAGkAZAAvAHQAZQBtAHAALwBtAGEAaQBuAC4AYwBwAHAAAAATQ3BwRWRpdG9yLkMrK0VkaXRvcgAAACAAAAACAAAAAAAAAAAAAAAHAAAAJQAAAAAAAAAAAAAAEwAAAAA=</value>
+ </data>
+ <data>
+  <variable>ProjectDependencies</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>ProjectList</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">/home/elpablo/void/temp/CMakeLists.txt</value>
+   <value type="QString">/home/elpablo/void/untitled/CMakeLists.txt</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>StartupProject</variable>
+  <value type="QString">/home/elpablo/void/untitled/CMakeLists.txt</value>
+ </data>
+ <data>
+  <variable>value-ActiveMode</variable>
+  <value type="QString">Edit</value>
+ </data>
+ <data>
+  <variable>value-Breakpoints</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>value-Find</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+ <data>
+  <variable>value-ProjectTree.ExpandData</variable>
+  <valuelist type="QVariantList">
+   <valuelist type="QVariantList">
+    <value type="QString">/home/elpablo/void/temp</value>
+    <value type="int">200000</value>
+   </valuelist>
+   <valuelist type="QVariantList">
+    <value type="QString">/home/elpablo/void/untitled</value>
+    <value type="int">200000</value>
+   </valuelist>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.Categories</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Task.Category.QmlAnalysis</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>value-TaskWindow.IncludeWarnings</variable>
+  <value type="bool">true</value>
+ </data>
+ <data>
+  <variable>valueKeys</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">ActiveMode</value>
+   <value type="QString">Breakpoints</value>
+   <value type="QString">Find</value>
+   <value type="QString">ProjectTree.ExpandData</value>
+   <value type="QString">TaskWindow.Categories</value>
+   <value type="QString">TaskWindow.IncludeWarnings</value>
+  </valuelist>
+ </data>
+</qtcreator>

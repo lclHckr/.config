@@ -15,6 +15,8 @@ suspend='󰤄'
 # suspend=''
 logout=''
 
+was_ags_opened="false"
+
 # Rofi CMD
 rofi_cmd() {
 	rofi -dmenu \
@@ -28,7 +30,24 @@ run_rofi() {
 	echo -e "$shutdown\n$reboot\n$suspend\n$logout\n$lock" | rofi_cmd
 }
 
+toggle_ags_on_open() {
+  if [ "$(ags -r "isWindowVisible('bar-0')")" = "true" ]; then
+    ags -t bar-0 # hide ags panel
+    was_ags_opened="true"
+  else
+    was_ags_opened="false"
+  fi
+}
+
+toggle_ags_on_close() {
+  if [ "$was_ags_opened" = "true" ]; then
+    ags -t bar-0 # hide ags panel
+  fi
+}
+
 # Actions
+toggle_ags_on_open
+
 chosen="$(run_rofi)"
 case ${chosen} in
     $shutdown)
@@ -47,3 +66,5 @@ case ${chosen} in
 		hyprctl dispatch exit
         ;;
 esac
+
+toggle_ags_on_close

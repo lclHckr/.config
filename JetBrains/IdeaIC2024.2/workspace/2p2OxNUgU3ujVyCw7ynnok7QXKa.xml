@@ -1,0 +1,492 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="GroupQueue_JavaFX" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2uvw7v4ej0avf">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/src/main/java/by/bsuir/LaunchClient.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="168">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"LaunchClient.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/SignInController.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="432">
+              <caret line="69" column="40" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SignInController.java","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/client/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="240">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml (client)","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 4,
+      "lastUsed": 1731962463329
+    },
+    "XML": {
+      "usageCount": 4,
+      "lastUsed": 1731961362032
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1731961735570
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/server/pom.xml" />
+      <option value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/SignInController.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1731962463329" />
+    </language>
+    <language id="XML">
+      <summary usageCount="4" lastUsage="1731961362032" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1731961735570" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="groupStructurally" value="true" />
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GroupQueue_JavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue_JavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue_JavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue_JavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue_JavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java/by/bsuir}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GroupQueue_JavaFX" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java/by/bsuir}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java/by/bsuir/controllers}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="GroupQueue_JavaFX" />
+            <item name="GroupQueue_JavaFX" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$/client" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="client" />
+              <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/client/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/client/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="by.bsuir" />
+                      <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java/by/bsuir}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="controllers" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java/by/bsuir/controllers}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/AuthorizationController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="AuthorizationController" />
+                          <item name="AuthorizationController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/ChooseSortTypeController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ChooseSortTypeController" />
+                          <item name="ChooseSortTypeController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/ConfirmationDialogController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ConfirmationDialogController" />
+                          <item name="ConfirmationDialogController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/EditProfileController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="EditProfileController" />
+                          <item name="EditProfileController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/GroupQueueController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="GroupQueueController" />
+                          <item name="GroupQueueController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/MyQueuesController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="MyQueuesController" />
+                          <item name="MyQueuesController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/RequestsController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="RequestsController" />
+                          <item name="RequestsController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/ScheduleController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="ScheduleController" />
+                          <item name="ScheduleController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/SignInController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="SignInController" />
+                          <item name="SignInController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/SignUpController.java" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="SignUpController" />
+                          <item name="SignUpController" type="1a9f42e2:ClassTreeNode" />
+                        </presentation>
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/services" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="services" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java/by/bsuir/services}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/utils" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="utils" />
+                        <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/java/by/bsuir/utils}" type="462c0819:PsiDirectoryNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/LaunchClient.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="LaunchClient" />
+                        <item name="LaunchClient" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/client/src/main/java/by/bsuir/MainClient.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="MainClient" />
+                        <item name="MainClient" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/client/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                    <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/client/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///home/elpablo/gym/GroupQueue_JavaFX/client/target}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/client/pom.xml" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="GroupQueue_JavaFX-history">
+        <shellCommand>
+          <arg value="/usr/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22108307" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32955664" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32955664" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32955664" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.17008412" />
+      <unified_weights bottom="0.32955664" left="0.22108307" right="0.17008412" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Maven</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="220" key="#Plugins" timestamp="1731961153132">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="220" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1731961153132" />
+    <state x="748" y="334" key="FileChooserDialogImpl" timestamp="1731961798206">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="334" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1731961798206" />
+    <state width="1820" height="291" key="GridCell.Tab.0.bottom" timestamp="1731962525308">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1731962525308" />
+    <state width="1820" height="291" key="GridCell.Tab.0.center" timestamp="1731962525308">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1731962525308" />
+    <state width="1820" height="291" key="GridCell.Tab.0.left" timestamp="1731962525308">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1731962525308" />
+    <state width="1820" height="291" key="GridCell.Tab.0.right" timestamp="1731962525308">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1731962525308" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/by/bsuir/models/entities/StudentEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/.env">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/by/bsuir/SpringBootApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/by/bsuir/controllers/SignInController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="69" column="40" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/main/java/by/bsuir/LaunchClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

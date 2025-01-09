@@ -2,8 +2,19 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
+        <entry key="$USER_HOME$/gym/GroupQueue_JavaFX" value="true" />
+        <entry key="$USER_HOME$/gym/GroupQueue_JavaFX/client" value="true" />
+        <entry key="$USER_HOME$/gym/GroupQueue_JavaFX/server" value="true" />
+        <entry key="$USER_HOME$/gym/untitled" value="true" />
         <entry key="$USER_HOME$/void/demo" value="true" />
       </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/gym" />
+      </list>
     </option>
   </component>
 </application>

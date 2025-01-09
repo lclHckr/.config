@@ -4,8 +4,8 @@
       <map>
         <entry key="$USER_HOME$/void/demo">
           <value>
-            <RecentProjectMetaInfo frameTitle="demo – Main.java" opened="true" projectWorkspaceId="2oB5jhhqjTy32TXyhcwqAgCDNPn">
-              <option name="activationTimestamp" value="1730552952915" />
+            <RecentProjectMetaInfo frameTitle="demo – Main.java" projectWorkspaceId="2oB5jhhqjTy32TXyhcwqAgCDNPn">
+              <option name="activationTimestamp" value="1731796652060" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-242.23726.103" />
               <option name="buildTimestamp" value="1729940520000" />
@@ -14,13 +14,29 @@
               </option>
               <frame x="9" y="56" width="1902" height="1015" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1730552954596" />
+              <option name="projectOpenTimestamp" value="1731796653945" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/gym/untitled">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled – Main.java" opened="true" projectWorkspaceId="2nOYPestnLy7urvW0f7RBGIXAoS">
+              <option name="activationTimestamp" value="1732387272874" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-242.23726.103" />
+              <option name="buildTimestamp" value="1730668260000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="9" y="56" width="1902" height="1015" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1732387273365" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/void/demo" />
-    <option name="lastProjectLocation" value="$USER_HOME$/void" />
+    <option name="lastOpenedProject" value="$USER_HOME$/gym/untitled" />
+    <option name="lastProjectLocation" value="$USER_HOME$/gym/GroupQueue_JavaFX" />
   </component>
 </application>
